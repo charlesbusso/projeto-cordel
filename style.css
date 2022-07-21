@@ -15,7 +15,7 @@
 * {
     margin: 0px;
     padding: 0px;
-    font-size: 2em;
+    font-size: 1em;
     
     
     }
@@ -57,7 +57,7 @@ section {
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: 3.5vw;
+    font-size: 5.5vw;
 }
 
 section > p {
